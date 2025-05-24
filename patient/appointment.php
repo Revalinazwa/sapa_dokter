@@ -89,28 +89,28 @@
                     </td>
                 </tr>
                 <tr class="menu-row" >
-                    <td class="menu-btn menu-icon-home" >
+                    <td class="menu-btn" >
                         <a href="index.php" class="non-style-link-menu "><div><p class="menu-text">Beranda</p></a></div></a>
                     </td>
                 </tr>
                 <tr class="menu-row">
-                    <td class="menu-btn menu-icon-doctor">
+                    <td class="menu-btn">
                         <a href="doctors.php" class="non-style-link-menu"><div><p class="menu-text">Semua Dokter</p></a></div>
                     </td>
                 </tr>
                 
                 <tr class="menu-row" >
-                    <td class="menu-btn menu-icon-session">
+                    <td class="menu-btn">
                         <a href="schedule.php" class="non-style-link-menu"><div><p class="menu-text">Jadwal</p></div></a>
                     </td>
                 </tr>
                 <tr class="menu-row" >
-                    <td class="menu-btn menu-icon-appoinment  menu-active menu-icon-appoinment-active">
+                    <td class="menu-btn menu-active">
                         <a href="appointment.php" class="non-style-link-menu non-style-link-menu-active"><div><p class="menu-text">Pertemuan Saya</p></a></div>
                     </td>
                 </tr>
                 <tr class="menu-row" >
-                    <td class="menu-btn menu-icon-settings">
+                    <td class="menu-btn">
                         <a href="settings.php" class="non-style-link-menu"><div><p class="menu-text">Pengaturan</p></a></div>
                     </td>
                 </tr>
